@@ -1,9 +1,9 @@
 {
   "customers": [
-    "id": "MaRa","name": "Maria Ramirez","imageURL": "assets/images/avatar2.png", "address": "Antonio G. Gonzalez 3912, Torre 2 Depto 605","company": "Paleteria Friss"},
-    "id": "JaZa","name": "Janitzio  Zavala","imageURL": "assets/images/avatar2.png", "address": "Antonio G. Gonzalez 3912, Torre 2 Depto 605","company": "Arrebol"},
-    "id": "DiRa","name": "Diego Ramirez","imageURL": "assets/images/avatar2.png", "address": "San Eduardo 1500","company": "Paleteria Friss"},
-    "id": "SeRa","name": "Sergio Ramirez","imageURL": "assets/images/avatar2.png", "address": "Monte la Luna","company": "Paleteria Friss"}
+    {"id": "MaRa","name": "Maria Ramirez","imageURL": "assets/images/avatar2.png", "address": "Antonio G. Gonzalez 3912, Torre 2 Depto 605","company": "Paleteria Friss"},
+    {"id": "JaZa","name": "Janitzio  Zavala","imageURL": "assets/images/avatar2.png", "address": "Antonio G. Gonzalez 3912, Torre 2 Depto 605","company": "Arrebol"},
+    {"id": "DiRa","name": "Diego Ramirez","imageURL": "assets/images/avatar2.png", "address": "San Eduardo 1500","company": "Paleteria Friss"},
+    {"id": "SeRa","name": "Sergio Ramirez","imageURL": "assets/images/avatar2.png", "address": "Monte la Luna","company": "Paleteria Friss"}
   ],
   "searchs": [
     { "id": "c", "name": "carlos"},
