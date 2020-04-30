@@ -14,33 +14,5 @@
       "address": "Antonio G. Gonzalez 3912, Torre 2 Depto 605",
       "company": "Arrebol Consultancy"
     },
-  ],
-  "searchs": [
-    {
-      "id": "c",
-      "name": "carlos"
-    },
-    {
-      "id": "j",
-      "name": "janitzio"
-    },
-    {
-      "id": "z",
-      "name": "zavala"
-    },
-    {
-      "id": "l",
-      "name": "lopez"
-    }
-  ],
-  "logins": [
-    {
-      "userName": "asesor",
-      "pwd":"12345678"
-    },
-    {
-      "userName": "vendedor",
-      "pwd":"87654321"
-    }
   ]
 }
