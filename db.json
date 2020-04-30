@@ -1,3 +1,4 @@
+[
 {
   "customers": [
     {"id": "MaRa","name": "Maria Ramirez","imageURL": "assets/images/avatar2.png", "address": "Antonio G. Gonzalez 3912, Torre 2 Depto 605","company": "Paleteria Friss"},
@@ -16,3 +17,4 @@
     { "userName": "vendedor", "pwd":"87654321"}
   ]
 }
+]
