@@ -6,10 +6,10 @@
     "id":"SeRa","name":"Sergio Ramirez","imageURL":"assets/images/avatar2.png", "address":"Monte la Luna","company":"Paleteria Friss"}
   ],
   "searchs": [
-    { "id": 1, "name": "carlos"},
-    { "id": 2, "name": "janitzio"},
-    { "id": 3, "name": "zavala"},
-    { "id": 4, "name": "lopez"},
+    { "id": "c", "name": "carlos"},
+    { "id": "j", "name": "janitzio"},
+    { "id": "z", "name": "zavala"},
+    { "id": "l", "name": "lopez"},
   ],
   "logins": [
   { "userName": "asesor", "pwd":"12345678"},
