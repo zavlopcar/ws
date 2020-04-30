@@ -9,7 +9,7 @@
     { "id": "c", "name": "carlos"},
     { "id": "j", "name": "janitzio"},
     { "id": "z", "name": "zavala"},
-    { "id": "l", "name": "lopez"},
+    { "id": "l", "name": "lopez"}
   ],
   "logins": [
   { "userName": "asesor", "pwd":"12345678"},
